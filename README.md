@@ -1,0 +1,2 @@
+# CoinbaseFomoCalculator
+Coinbase Fomo Calculator
